@@ -6,6 +6,8 @@ This project is a text summarization of the Arabic language in several ways:
   2. K-means
   3. textRank
 
-And use rouge-1  to evaluate each method With EASC DataSet.
-https://l Liquidtelecom.dl.sourceforge.net/project/easc-corpus/EASC/EASC.zip
+And use rouge-1  to evaluate each method With EASC DataSet,
 With writing a paper explaining the method of work and results.
+
+Dataset: https://lLiquidtelecom.dl.sourceforge.net/project/easc-corpus/EASC/EASC.zip
+
